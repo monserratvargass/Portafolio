@@ -1,0 +1,32 @@
+header{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.893), rgba(0, 52, 105, 0.718)),
+                  url("assets/fondo.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 1;
+}
+
+.letra-color{
+    background: linear-gradient(to right,rgb(255, 1, 162), rgb(45, 224, 255),rgb(32, 140, 255)); 
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.icono-gigante {
+    font-size: 7rem;
+    padding: 5px 10px;
+}
+
+.img-proyecto{
+    width: 100%;
+}
+
+.icono-contacto{
+    font-size: 3rem;
+    color: black;
+    margin: 4px 8px;
+}
+
+#contacto{
+    min-height: 80vh;
+}
